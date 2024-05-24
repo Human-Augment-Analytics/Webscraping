@@ -1,0 +1,633 @@
+neighborhood,rent_price
+Buckhead Heights,2240
+Lenox,2240
+Ansley Park,2200
+Ardmore,2200
+Brookwood Hills,2200
+Collier Hills North,2200
+Colonial,2200
+Piedmont Park,2200
+Sherwood Forest,2200
+Midtown Atlanta,2180
+Arden - Habersham,2162
+Argonne Forest,2162
+Buckhead Forest,2162
+Buckhead Village,2162
+Garden Hills,2162
+Peachtree Battle Alliance,2162
+Peachtree Heights East,2162
+Peachtree Heights West,2162
+Peachtree Hills,2162
+Peachtree Park,2162
+South Tuxedo Park,2162
+Wyngate,2162
+Atkins Park,2135
+Virginia Highland,2135
+Virginia Park Townhomes,2135
+Kingswood,2121
+Woodfield,2121
+Downtown Atlanta,2107
+Castleberry Hill,2077
+Atlantic Station,2070
+Atlanta Memorial Park,2043
+Brookwood,2043
+Loring Heights,2043
+Poncey - Highland,2041
+Southwest Druid Hills,2041
+Virgilee Park,2041
+Old Fourth Ward,2000
+Memorial Park,1989
+Springlake,1989
+Candler Park,1957
+Inman Park,1957
+Lake Claire,1957
+Lions Gate,1957
+Little Five Points,1957
+Lullwater,1957
+Avallon,1930
+Brandon,1930
+Castlewood,1930
+Cross Creek,1930
+Glen Errol,1930
+Heritage Oaks,1930
+Margaret Mitchell,1930
+Moores Mill - Northside Pkwy Triangle,1930
+Mount Paran Parkway,1930
+Mount Vernon,1930
+Mt. Paran Northside,1930
+North Island Estates,1930
+Paces,1930
+Pleasant Hill,1930
+Powers Lake,1930
+Randall Mill,1930
+Riley Place,1930
+Tiller Walk Estates,1930
+West Paces Ferry,1930
+West Peachtree Battle,1930
+Westminster - Milmar,1930
+Whitewater Creek,1930
+Tuxedo Park,1921
+Home Park,1909
+Aberdeen Forest,1897
+Amberidge,1897
+Autumn Chace,1897
+Brandon Mill Woods,1897
+Breakwater,1897
+Cameron Glen,1897
+Dunwoody Springs,1897
+Foxcroft,1897
+Gates at Glenridge,1897
+Glenview,1897
+Goldstream,1897
+Greater Branches,1897
+Hammond Hills,1897
+Heards Forest,1897
+Lost Forest,1897
+Mount Vernon Woods,1897
+Mountaire,1897
+North Harbor,1897
+North Riverside,1897
+North Springs,1897
+Ridgemere,1897
+River Chase,1897
+River Springs Forest,1897
+Rivershore Estates,1897
+Riverside,1897
+Seville Chase,1897
+Spalding Woods,1897
+Sunny Brook Meadows,1897
+The Park at Trowbridge,1897
+Westfair,1897
+Whispering Pines,1897
+Winterthur,1897
+Wyncourtney,1897
+Wyndham Hills,1897
+Hanover West,1897
+North Bolton,1897
+Almond Park,1893
+Bellwood Quarry,1893
+Berkeley  Park,1893
+Blandtown,1893
+Bolton,1893
+Bolton Hills,1893
+Carey Park,1893
+Carver Hills,1893
+Channing Valley,1893
+Collier Heights,1893
+Collier Hills,1893
+Defoors Cross,1893
+Dupont Commons,1893
+Frernleaf,1893
+Harvel Homes Community,1893
+Hills Park,1893
+Jackson Trace,1893
+Knight Park - Howell Station,1893
+Liberty Park,1893
+Lincoln Homes,1893
+Monroe Heights,1893
+Ridgewood Heights,1893
+Riverside,1893
+Rockdale,1893
+Scotts Crossing,1893
+Underwood Hills,1893
+Vinnings on the Chattahochee,1893
+Watts Road,1893
+West Highlands,1893
+Westover Plantation,1893
+Whittier Mill,1893
+Wildwood,1893
+North Buckhead,1881
+Georgia Tech,1874
+Marietta Street Artery,1874
+Edgewood,1863
+Brookhaven Country Club,1860
+Brookhaven Park,1860
+Ridgedale Park,1860
+Capitol Gateway,1854
+Oakland,1854
+Sweet Auburn,1854
+Oaks Of Dunwoody,1844
+Bankhead,1823
+Center Hill,1823
+English Avenue,1823
+Grove Park,1823
+Brickstone Heights,1800
+Mount Paran - Northside,1800
+Riverview Palisades,1800
+North Brookhaven,1795
+Boulevard Heights,1795
+Cabbagetown,1795
+Reynoldstown,1792
+Dunwoody West,1785
+Chattahoochee Bluffs,1784
+Cobb East,1784
+Cochise,1784
+Farmington,1784
+One River Place,1784
+Orchard Lake,1784
+Paces Lake,1784
+Stonewall,1784
+Vinings Heights,1784
+Vinings View,1784
+Wescott,1774
+Windsor at Peachtree,1774
+Morningside - Lenox Park,1773
+Brookhaven Heights,1765
+Dunwoody Club Forest,1755
+Benteen Park,1733
+Grant Park,1733
+Mechanicsville,1733
+Summerhill,1733
+Woodland Hills,1732
+Chastain Park,1728
+Marchman Estates,1728
+North Chastain Park,1728
+Brandon Mill Farms,1720
+Princeton Square,1720
+Wembley Hall,1720
+Wildercliff,1720
+Westhaven,1718
+East Lake,1711
+Kirkwood,1711
+The Village at East Lake,1711
+Brighton Village,1703
+East Atlanta,1703
+Ormewood Park,1703
+State Facility,1703
+Whitehall Forest Estates,1703
+Woodland Hills,1703
+Atlanta Industrial Park,1702
+Armour,1696
+Lindbergh,1696
+Martin Manor,1696
+Piedmont Heights,1696
+Pine Hills,1696
+Sheridan Court,1696
+Mercer University,1690
+Executive Park,1689
+LaVista Park,1689
+Benton Woods,1685
+Chastain,1685
+Cherokee Park,1685
+East Chastain Park,1685
+Glenridge Heights,1685
+High Point,1685
+Northland Ridge,1685
+Ridgeview Forest,1685
+Saint Joseph,1685
+Starlight Hills,1685
+The Glenridge,1685
+Woodmoore,1685
+Green Hills,1683
+Embry Hills,1651
+Briarcliff,1623
+Frontier Woods,1623
+Constitution,1593
+Custer - McDonough - Guice,1593
+Brown Field,1568
+Park Plateau,1568
+Utoy Creek,1568
+West Park - Fulton,1568
+Westchase Glen,1568
+Avalon,1566
+Bakers Glen,1566
+Ball Mill Place,1566
+Bentwater,1566
+Carroll Manor,1566
+Chaparral Estates,1566
+Chattahoochee Terrace,1566
+Deerfield,1566
+Dunwoody Lake,1566
+Fenimore,1566
+Four Seasons,1566
+Gates On The River,1566
+Grogan's Bluff,1566
+Hannover Forest,1566
+Heatheridge,1566
+Hope Springs Manor,1566
+Huntcliff,1566
+Huntcliff Summit,1566
+Masons Creek,1566
+Meadow Gate,1566
+Misty Creek Farms,1566
+Northridge Forest,1566
+Overton Hills,1566
+Ridge Mark Garden,1566
+River Bluff,1566
+River Oaks,1566
+River Run,1566
+Rivergate,1566
+Sentinel Ferry,1566
+Serendipity,1566
+Shore Meadows,1566
+Spalding Chase,1566
+Spalding Green,1566
+Spalding Heights,1566
+Spalding Lake,1566
+Spindlewick,1566
+Stratford Manor,1566
+The Vineyards,1566
+Towergate,1566
+Tynecastle,1566
+Victoria Heights - Dunwoody Square,1566
+Woodland Forest,1566
+Dunwoody Reservoir,1563
+Lakeview,1563
+Peachtree Corners,1563
+Winters Chapel,1563
+North Doraville,1535
+Northcrest,1535
+The Villages at Castleberry Hill,1532
+Arbor Creek,1520
+Adair Park,1446
+Bush Mountain,1446
+Capitol View,1446
+Capitol View Manor,1446
+Fort McPherson,1446
+Harris Chiles,1446
+Oakland City,1446
+West End Atlanta,1446
+Westview,1446
+Westview Cemetery,1446
+Westwood Terrace,1446
+Pittsburgh,1419
+Sylvan Hills,1419
+Amal Heights,1399
+Betmar LaVilla,1399
+Chosewood Park,1399
+Englewood Manor,1399
+Hammond Park,1399
+High Point,1399
+Joyland,1399
+Lakewood,1399
+Lakewood Heights,1399
+Leila Valley,1399
+Norwood Manor,1399
+Park Place South,1399
+Peckerson,1399
+Peoplestown,1399
+Polar Rock,1399
+Rebel Valley Forest,1399
+South Atlanta,1399
+Swallow Circle - Baywood,1399
+The Villages at Carver,1399
+Thomasville Heights,1399
+Cascade Falls,1385
+Cascade Lake Estate,1385
+Fulton Industrial,1385
+Old Gordon,1385
+Adamsville,1379
+Anatole,1379
+Arlington Estates,1379
+Ashley Courts,1379
+Baker Ferry,1379
+Baker Hills,1379
+Bankhead - Bolton,1379
+Bankhead Courts,1379
+Barrington Trace,1379
+Ben Hill,1379
+Ben Hill Acres,1379
+Ben Hill Forest,1379
+Ben Hill Heights,1379
+Ben Hill Manor,1379
+Ben Hill Pines,1379
+Ben Hill Terrace,1379
+Boulder Park,1379
+Brentwood,1379
+Briar Glen,1379
+Brittany Park,1379
+Burton On Cascade,1379
+Butner Tell,1379
+Cambridge Commons,1379
+Canaan Glen,1379
+Canaan Ridge at Wolf Creek,1379
+Canaan Trace,1379
+Canaan Walk,1379
+Canaan Woods,1379
+Carousel Drive,1379
+Carroll Heights,1379
+Cascade,1379
+Cascade Commons,1379
+Cascade Cove,1379
+Cascade Crossing,1379
+Cascade Hills,1379
+Cascade Knolls,1379
+Cascade Manor,1379
+Cascade Oaks,1379
+Cascade Place,1379
+Cottages at Cascade,1379
+Cowart Lake,1379
+Deerwood,1379
+Deerwood Reserve,1379
+East Point Reservoir,1379
+Elmco Estates,1379
+English Park,1379
+Enon Forest,1379
+Enon Pines,1379
+Fairburn,1379
+Fairburn Heights,1379
+Fairburn Mays,1379
+Fairburn Tell,1379
+Fairway Acres,1379
+Fairwoods Estates,1379
+Fontainebleau,1379
+Grandview Estates,1379
+Greenbriar Village,1379
+Guilford Forest,1379
+Heritage Valley,1379
+Huntington,1379
+Joe Estates,1379
+JW Thompson,1379
+Kimberley Courts,1379
+Kings Forest,1379
+Lake Estates,1379
+Le Grande,1379
+Legacy at Traxton Reserve,1379
+Loch Lomond,1379
+Madison Trace,1379
+Martins Park,1379
+Meadowbrook Forest,1379
+Mellwood,1379
+Melvin Drive Park,1379
+Montclair Estates,1379
+Mt. Gilead Woods,1379
+Niskey Cove,1379
+Niskey Lake,1379
+Niskey Lake Falls,1379
+Old Fairburn Village,1379
+Overlook at Camp Creek,1379
+Princeton Lakes,1379
+Promenade Oaks,1379
+Ralph Bunche,1379
+Regency Hills,1379
+Regency Trace,1379
+Reserve at Boulder Park,1379
+Reunion PLace,1379
+Ridgecrest Forest,1379
+Rockburn Estates,1379
+Rue Royal,1379
+Sandlewood Estates,1379
+Sandtown Center,1379
+Sandtown Park,1379
+South Center Atlanta,1379
+Stonewall Tell,1379
+Tampa Park,1379
+Versailles,1379
+Village Of Cascade,1379
+Westlake,1379
+Wexwood Glen,1379
+Wildwood East,1379
+Wildwood Forest,1379
+Wildwood Lake Estates,1379
+Wilson Mill Meadows,1379
+Wisteria Gardens,1379
+Woodside Hills,1379
+Wyncreek Estates,1379
+Browns Mill Park,1363
+Ashview Heights,1354
+Greenbriar,1323
+Suttles Landing,1323
+Butner Meadows,1302
+Falls at Cascade Palms,1302
+Lakeside Manor,1302
+Oxmoor Estates,1302
+Palmetto Farms,1302
+Vandivers Lake,1302
+Waterford Commons,1302
+Wellesley,1302
+Wolf Creek,1302
+Wolf Creek Country Club,1302
+Blair Villa - Poole Creek,1293
+Blalock Heights,1293
+Glenrose Heights,1293
+Maxwelton,1293
+Mountain View,1293
+Old Dixie Perimeter,1293
+Orchard Knob,1293
+Rosedale Heights,1293
+South River Gardens,1293
+Southwoods,1293
+Beecher Hills,1293
+Florida Heights,1293
+Venetian Hills,1293
+Carriage Colony,1274
+Cheviot Hills,1274
+Colonial Hills,1274
+Conley Hills,1274
+Connally Heights,1274
+Eagan Park,1274
+East Washington,1274
+Forest Acres,1274
+Frog Hollow,1274
+Glendale Heights,1274
+Highwood Park,1274
+Historic Conley Hills,1274
+Jefferson Park,1274
+Meadow Lark,1274
+Oak Knoll,1274
+Piney Woods,1274
+River Park,1274
+Sarah Sosby,1274
+Semmes Park,1274
+The Villages of East Point,1274
+Williamsburg,1274
+Oak Ridge,1252
+Lakeside,1250
+Atlanta University Center,1245
+Dixie Hills,1245
+Hunter Hills,1245
+Just Us,1245
+Mozley Park,1245
+Penelope Neighbors,1245
+Vine City,1245
+Washington Park,1245
+West Lake,1245
+Amhurst,1241
+Ashley Downs,1241
+Beacon Hills,1241
+Beaver Creek,1241
+Benchmark,1241
+Big Creek,1241
+Bon Haven Estates,1241
+Britanny Forest,1241
+Broadstone,1241
+Brookwood,1241
+Buffington Park,1241
+Burdette Ridge,1241
+Camelot Club,1241
+Castle Cove,1241
+Champions Park,1241
+Cherry Hill,1241
+Clayton Woods,1241
+Cliftondale,1241
+College Heights,1241
+Connie Lee,1241
+Cooks Crossing,1241
+Cooks Landing,1241
+Cork Meadows,1241
+Creekside,1241
+Creekside at Scarborough,1241
+Creel And Bethsaida Corner,1241
+Creel Walk,1241
+Crenshaw Park,1241
+Deep Creek Acres,1241
+Delano Park,1241
+Devon Estate,1241
+Edgewater -  Central Park,1241
+Emerald Pointe,1241
+Exodus,1241
+Falcon Forest,1241
+Feldwood Lake,1241
+Flat Shoals -  Centennial Walk,1241
+Flat Shoals Estates,1241
+Forest Downs,1241
+Gates at Stone Lake,1241
+Granada,1241
+Hallie Hills,1241
+Happy Hollow,1241
+Harriston Square,1241
+Heritage Park,1241
+Herron Creek,1241
+Hidden Brook,1241
+Hidden Valley,1241
+High Grove,1241
+Highland,1241
+Highland Lake,1241
+Hillandale,1241
+Jailette Estates,1241
+Jailette Trace,1241
+Kensington Heights,1241
+Kensington Woods,1241
+Kimberly,1241
+Kimberly Forest,1241
+Legend Oaks,1241
+Madison Place,1241
+Magnolia Estates,1241
+Magnolia Walk,1241
+Mallory Park,1241
+Mallory Walk,1241
+Meadows,1241
+Melanie Manor,1241
+Melanie Woods,1241
+Monterey,1241
+Morning Creek Estates,1241
+Morning Creek Lake,1241
+Muir Woods,1241
+Normandy,1241
+Old National East,1241
+Overlook at Pinnacle,1241
+Park Place South,1241
+Parkside,1241
+Parkway Villages,1241
+Pine Shoals,1241
+Pittman Park,1241
+Pointer Ridge,1241
+Ponderosa,1241
+Ponderosa Pines,1241
+Pontevedra,1241
+Premier Garden,1241
+Prestons Vineyard,1241
+Providence Place,1241
+Regency Oaks,1241
+Reserve at Morning Creek,1241
+Retreat at Jones Mill,1241
+River's Station,1241
+Rivers Station,1241
+Ruby Creek Estates,1241
+Sable Chase,1241
+Sable Glen,1241
+Sand Pipers Cove,1241
+Scaraborough Park,1241
+Shandra Estates,1241
+Sherbrook Forest,1241
+Shoals Creek,1241
+Silverwood,1241
+Southern Colony,1241
+Southern Pines,1241
+Stonewall Manor,1241
+Stonewyck,1241
+Sun Rise,1241
+Swan Creek,1241
+Tacoma Forest,1241
+Terrell Estates,1241
+Three Lakes,1241
+Traxton Point,1241
+Union Crossing,1241
+Vermont Estates,1241
+Walden Park,1241
+Waterford Edge,1241
+Waverly Park,1241
+Wexford,1241
+Will Lee Pines,1241
+Williams Bluff,1241
+Woodland Estates,1241
+Woodward Estates,1241
+Woodward Hills,1241
+Silverwood Estates,1236
+Adams Park,1231
+Audobon Forest,1231
+Audobon Forest West,1231
+Bonnybrook Estates,1231
+Campbellton Road,1231
+Cascade Glen,1231
+Cascade Heights,1231
+Cascade Road,1231
+Chalet Woods,1231
+East Ardley Road,1231
+Fort Valley,1231
+Green Acres Valley,1231
+Green Forest Acres,1231
+Harland Terrace,1231
+Horseshoe Community,1231
+Ivan Hill,1231
+Laurens Valley,1231
+Legacy at King Walk,1231
+Lynn Valley,1231
+Magnum Manor,1231
+Peyton Forest,1231
+Pomona Park,1231
+Regency Point,1231
+Southwest Atlanta,1231
+Sunridge Construction,1231
+West Manor,1231
+Hartsfield Jackson Atlanta Airport,1218
